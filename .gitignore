@@ -1,0 +1,9 @@
+build/*
+*.jpg
+*.mp4
+__pycache__/*
+*.txt
+models/__pycache__/*
+Utils/__pycache__/*
+*.pt
+Track/__pycache__/

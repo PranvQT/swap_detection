@@ -1,0 +1,71 @@
+{
+    "camera_model": 2,
+    "collision_mode": 0,
+    "print_udp_command": 0,
+    "ue4_print_udp_command": 0,
+    "activate_crop": 0,
+    "detection_weight": "Settings/detection_weights/all_data_no_dubai_best_190.pt",
+    "video_source": "Settings/BANvNED_24OCT.mp4",
+    "db_name": "WIvsZIM_part1.1",
+    "decklink_port_no": 1,
+    "decklink_12g_mode": 1,
+    "viz_udp_ip_address": "192.168.10.5",
+    "viz_udp_port": 5002,
+    "middleman_ip_address_port": "tcp://192.168.1.19:2000",
+    "buggy_ip_address_port": "tcp://192.168.8.7:5555",
+    "middleman_video_stream_ip": "192.168.1.25",
+    "middleman_video_stream_port": "8000",
+    "viz_tcp_ip_address": "192.168.10.5",
+    "viz_tcp_port": 6101,
+    "unreal_ip_address": "192.168.8.8",
+    "unreal_udp_port": 1502,
+    "crop_x1": 0,
+    "crop_y1": 920,
+    "crop_x2": 3840,
+    "crop_y2": 2100,
+    "m_for_pix": 0.1025,
+    "lens_distortion": 0,
+    "innings": 1,
+    "score_file_mode": "ae",
+    "score_file_path": "../score_file/",
+    "history_data_path": "db.json",
+    "clear_multiple_entry_flag": 1,
+    "near_bowl_dir": [
+        6,
+        4
+    ],
+    "far_bowl_dir": [
+        2,
+        0
+    ],
+    "stump": {
+        "near_end": [
+            1483,
+            1438
+        ],
+        "far_end": [
+            1485,
+            1637
+        ]
+    },
+    "crease": {
+        "near_end": [
+            1517,
+            1426
+        ],
+        "far_end": [
+            1516,
+            1607
+        ]
+    },
+    "stump_src": {
+        "near_end": [
+            2182,
+            722
+        ],
+        "far_end": [
+            1822,
+            837
+        ]
+    }
+}
