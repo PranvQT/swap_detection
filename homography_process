@@ -1,0 +1,9 @@
+src - a press a-a to draw line on source image
+dst - d press d-d to draw line on dst image
+
+src - z press z to select point on source image
+dst - c press c to select point on dst image
+
+homography - b
+
+

@@ -1,0 +1,8 @@
+{
+    "confidence": 0.5,
+    "iou": 0.33,
+    "reassign": 250,
+    "mv_distance": 15,
+    "mv_frameskip": 20,
+    "mv_frameskip_backwards": 30
+}
